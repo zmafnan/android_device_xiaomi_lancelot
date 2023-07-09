@@ -1,0 +1,7 @@
+# Device Spoof
+ro.build.fingerprint=Redmi/lancelot_global/lancelot:12/SP1A.210812.016/V13.0.4.0.SJCMIXM:user/release-keys
+ro.product.brand=Redmi
+ro.product.device=lancelot
+ro.product.manufacturer=Xiaomi
+ro.product.model=M2004J19C
+ro.product.name=lancelot_global
